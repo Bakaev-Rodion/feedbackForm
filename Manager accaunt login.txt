@@ -1,0 +1,2 @@
+Login: Manager
+Password: php_123
